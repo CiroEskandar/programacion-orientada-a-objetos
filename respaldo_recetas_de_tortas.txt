@@ -1,0 +1,7 @@
+codigo: 1	nombre: 1
+descripcion: 1	harina: 1
+azucar: 1	leche: 1
+aceite: 1	chocolate: 1
+vinagre: 1	vainilla: 1
+huevos: 1	bicarbonato: 1
+sal: 1	mantequilla: 1
